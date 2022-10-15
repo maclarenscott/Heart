@@ -1,1 +1,1 @@
-# This project was built and submitted to HackHarvard 2022
+# This project was built at and submitted to HackHarvard 2022
